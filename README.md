@@ -20,12 +20,15 @@ Cosmos Zone is an independent blockchain that exists in Cosmos. Each zone has it
 ![Image description](https://miro.medium.com/max/3908/1*r5mblWVdD4e5x41CDgFp5g.png)
 
 ## e-Wallet
-- Shuffle (Download Here - https://play.google.com/store/apps/details?id=com.thehumanplus.shuffle&hl=en) 
+- HUPAYX end-to-end mobile payment platform is comprised of 'SHUFFLE' Multi-Digital Currency Wallet on the customer side, where users can easily send, buy, store and most importantly pay in 'SHUFFLE' points (prepaid e-money), which is backed by local currency. Crypto users can import their digital assets, store them or do near-instantaneous P2P transactions between SHUFFLE wallet users for free. Most important function is that crypto users can finally utilize their assets in real life by converting crypto into points inside of the wallet and making purchases at 'VAULT' point-of-sale system supported merchants. 
+
+- Shuffle Wallet (Download Here - https://play.google.com/store/apps/details?id=com.thehumanplus.shuffle&hl=en) 
 ![Image description](https://miro.medium.com/max/4320/1*tOkD0tAwYRkwku4CjRj0tw.jpeg)
 
 - Shufflator:
 
 ![Image description](https://miro.medium.com/max/616/1*AdFIph1y6p1tadX5dlWmwQ.png)
+
 Shufflator Wallet is a special Validator Wallet, which is granted to Network Alliance members (Validator Nodes)
 
 Staking – To become a validator node, a validator must stake a certain amount of HPX tokens and hold it in reserve for the duration the company wishes to serve as a validator.
