@@ -20,10 +20,11 @@ Cosmos Zone is an independent blockchain that exists in Cosmos. Each zone has it
 ![Image description](https://miro.medium.com/max/3908/1*r5mblWVdD4e5x41CDgFp5g.png)
 
 ## e-Wallet
-- Shuffle (https://play.google.com/store/apps/details?id=com.thehumanplus.shuffle&hl=en) 
+- Shuffle (Download Here - https://play.google.com/store/apps/details?id=com.thehumanplus.shuffle&hl=en) 
 ![Image description](https://miro.medium.com/max/4320/1*tOkD0tAwYRkwku4CjRj0tw.jpeg)
 
 - Shufflator:
+
 ![Image description](https://miro.medium.com/max/616/1*AdFIph1y6p1tadX5dlWmwQ.png)
 Shufflator Wallet is a special Validator Wallet, which is granted to Network Alliance members (Validator Nodes)
 
