@@ -33,15 +33,15 @@ Validator Ecosystem is the most crucial part of HUPAYX Blockchain Network, which
 
 Shufflator Wallet is a special Validator Wallet, which is granted to Network Alliance members (Validator Nodes)
 
-Staking – To become a validator node, a validator must stake a certain amount of HPX tokens and hold it in reserve for the duration the company wishes to serve as a validator.
+- Staking – To become a validator node, a validator must stake a certain amount of HPX tokens and hold it in reserve for the duration the company wishes to serve as a validator.
 
-Voting – Validator will gain a voting power inside of HUPAYX Network Alliance and can participate in HUPAYX decision making as a Shareholder.
+- Voting – Validator will gain a voting power inside of HUPAYX Network Alliance and can participate in HUPAYX decision making as a Shareholder.
 
-Rewards – Validator can gain daily, monthly and yearly rewards by profiting from transaction processing, which depends on the amount the validator has staked. 
+- Rewards – Validator can gain daily, monthly and yearly rewards by profiting from transaction processing, which depends on the amount the validator has staked. 
 
-Delegators – Validators can handpick their own delegators and charge a certain commission for their work in securing the network
+- Delegators – Validators can handpick their own delegators and charge a certain commission for their work in securing the network
 
-Telegram – Built in Telegram messaging for easy and secure transfer of HPX coins between friends and family
+- Telegram – Built in Telegram messaging for easy and secure transfer of HPX coins between friends and family
 
 # HUPAYX Payment System
 - Payment system that integrates the world's first cryptocurrency wallet and point wallet
