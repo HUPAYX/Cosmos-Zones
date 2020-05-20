@@ -16,7 +16,7 @@ Cosmos Zone is an independent blockchain that exists in Cosmos. Each zone has it
 ## Validator Recruitment Schedule
 - To be recruited as a company with certain qualifications
 
-- Transaction fee rewards generated through the Hefei payment system (Validator Reward Rate is below)
+- Transaction fee rewards generated through the Hefei payment system (Validator Reward simulation is below)
 ![Image description](https://miro.medium.com/max/3908/1*r5mblWVdD4e5x41CDgFp5g.png)
 
 ## e-Wallet
@@ -28,6 +28,8 @@ Cosmos Zone is an independent blockchain that exists in Cosmos. Each zone has it
 - Shufflator:
 
 ![Image description](https://miro.medium.com/max/616/1*AdFIph1y6p1tadX5dlWmwQ.png)
+
+Validator Ecosystem is the most crucial part of HUPAYX Blockchain Network, which serves as a Network Alliance or Node Shareholders
 
 Shufflator Wallet is a special Validator Wallet, which is granted to Network Alliance members (Validator Nodes)
 
