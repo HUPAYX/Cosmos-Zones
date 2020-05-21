@@ -14,9 +14,15 @@ Cosmos Zone is an independent blockchain that exists in Cosmos. Each zone has it
 - Payment coin issuance: HX (1 trillion issuance)
 
 ## Validator Recruitment Schedule
-- To be recruited as a company with certain qualifications
+- Investment: 15M ~ 45M HPX purchase is required to become a Validator Node
 
-- Transaction fee rewards generated through the Hefei payment system (Validator Reward simulation is below)
+- Private Sale: Round 1 Private sale is over. Round 2 is already underway 
+
+- Application fee (Staking): accepted in Bitcoin and Ethereum
+
+- Contract: Validator Contract Period – Yearly 
+
+- Transaction fee rewards generated through the HUPAYX payment system (Validator Reward simulation is below)
 ![Image description](https://miro.medium.com/max/3908/1*r5mblWVdD4e5x41CDgFp5g.png)
 
 ## e-Wallet
